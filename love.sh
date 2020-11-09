@@ -7,7 +7,7 @@ pkg install nano -y
 gem install lolcat
 clear
 toilet -f  mono12 -F gay "hello"
-time.sleep(1)
+
 toilet -f pagga "lyom badna nkamel jeze2 tene mn l 2osaa" | lolcat
 time.sleep(1)
 toilet -f pagga "ma la7 tkon tawele le2ano heye 3al bash" | lolcat
